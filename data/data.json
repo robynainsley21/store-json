@@ -1,0 +1,181 @@
+{
+    "resources": [
+        {
+            "productName": "Retinol Sculpting Serum",
+            "volume": "50ml",
+            "details": "0.3% concentration, amino-peptides, hydroxyacids, glycerin, vitamin E",
+            "description": "Reduces the appearance of fine lines, improves skin elasticity, and helps to reduce the appearance of pores",
+            "price": 299.90,
+            "img_url": "https://robynainsley21.github.io/images/ecommerce-skincare/retinoid.jpg"
+        },
+        {
+            "productName": "Skin Brightening set",
+            "volume": "30ml, 30ml, 50ml, 50ml",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/ecommerce-skincare/skin-brightening-set.jpg"
+        },
+        {
+            "productName": "Daily Microfoliant",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/ecommerce-skincare/Daily Microfoliant.jpg"
+        },
+        {
+            "productName": "Niacinamide 10% + Zinc 1%",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/ecommerce-skincare/niacinamide.jpg"
+        },
+        {
+            "productName": "Hydrating Mask",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/ecommerce-skincare/mask.jpg"
+        },
+        {
+            "productName": "Brightening Eye Cream",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/ecommerce-skincare/eye-cream.jpg"
+        },
+        {
+            "productName": "Daily Moisturiser",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/ecommerce-skincare/day-cream.jpg"
+        },
+        {
+            "productName": "Green Tea Spritz",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/ecommerce-skincare/skin-spritz.jpg"
+        },
+        {
+            "productName": "",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/"
+        },
+        {
+            "productName": "",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/"
+        },
+        {
+            "productName": "",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/"
+        },
+        {
+            "productName": "",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/"
+        },
+        {
+            "productName": "",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/"
+        },
+        {
+            "productName": "",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/"
+        },
+        {
+            "productName": "",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/"
+        },
+        {
+            "productName": "",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/"
+        },
+        {
+            "productName": "",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/"
+        },
+        {
+            "productName": "",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/"
+        },
+        {
+            "productName": "",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/"
+        },
+        {
+            "productName": "",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/"
+        },
+        {
+            "productName": "",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/"
+        },
+        {
+            "productName": "",
+            "volume": "",
+            "details": "",
+            "description": "",
+            "price": 100,
+            "img_url": "https://robynainsley21.github.io/images/"
+        }
+
+    ]
+}
